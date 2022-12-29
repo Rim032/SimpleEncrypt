@@ -2,7 +2,7 @@
 
 [----Purpose----]
 
-This is a program that provides simple encryption for strings and files utilizing a simple algorithm and key. It can both encrypt and decrypt any valid input.
+This is a program that provides simple encryption for strings and files utilizing a simple algorithm and key. It can both encrypt and decrypt any valid input based on that aforementioned key.
 
 [----Reason----]
 

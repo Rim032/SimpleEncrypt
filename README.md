@@ -6,7 +6,7 @@ This is a program that provides simple encryption for strings and files utilizin
 
 [----Reason----]
 
-I made this to mess with encryption and practices more C#.
+I made this to mess with encryption and practice more C#.
 
 [---Misc.---]
 
